@@ -2,3 +2,4 @@ tugasrpl resolusi
 -konsisten dalam belajar
 -membuat platform eccomers
 -membuat kuis interaktif
+-membuat soal uas 
